@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/4JnxpdXDN-QAAAAM/skibidi-toilet.gif"  />
-
 ###
 
 <div align="left">
@@ -53,14 +51,4 @@
 
 ###
 
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/-7P18-X3ac4AAAAj/cameraman.gif"  />
-
-###
-
-<h1 align="left">Skibidi Sigma Rizz Toilet</h1>
-
-###
 
