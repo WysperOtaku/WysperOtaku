@@ -24,8 +24,9 @@
 </div>
 
 ###
-
-<img  align="center" src="https://count.getloli.com/@WysperOtaku?name=WysperOtaku&theme=nixietube-1&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=0"/>
+<p align="center">
+  <img src="https://count.getloli.com/@WysperOtaku?name=WysperOtaku&theme=nixietube-1&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=0"/>
+</p>
 
 <br>
 
