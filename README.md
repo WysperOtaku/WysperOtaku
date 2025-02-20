@@ -25,7 +25,7 @@
 
 ###
 
-<a href="https://count.getloli.com/@WysperOtaku?name=WysperOtaku&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto"></a>
+<img src="https://count.getloli.com/@WysperOtaku?name=WysperOtaku&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto"/>
 
 <br>
 
