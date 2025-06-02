@@ -7,6 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WysperOtaku&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,java,js,html,css,mysql" />
+  </a>
+</p>
+
 ###
 
 <div align="left">
@@ -16,7 +22,7 @@
 
 ###
 <p align="center">
-  <img src="https://count.getloli.com/@WysperOtaku?name=WysperOtaku&theme=nixietube-1&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=0"/>
+  <img src="https://count.getloli.com/@WysperOtaku?name=WysperOtaku&theme=3d-num&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=0"/>
 </p>
 
 <br>
