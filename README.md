@@ -10,6 +10,15 @@ Hey! Soy, un desarrollador curioso de España que siempre anda trasteando con c�
 
 ###
 
+## 🧩 What I'm Working On  
+
+Ahora mismo tengo mis manitas metidas en:  
+
+- 👀 Echándole el ojo a **PHP** (sí, lo sé… pero alguien tiene que hacerlo).
+- 🔵 Dándole caña a **TypeScript** y aprendiendo más de **frontend** para no vivir solo en el backend.
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WysperOtaku&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
