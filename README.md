@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! My name is Wysper and im from Spain</h2>
 
+## 👨‍💻 About Me  
+
+Hey! Soy, un desarrollador curioso de España que siempre anda trasteando con código, bases de datos y cosillas que (a veces) hacen cosas.  
+
+- 🚀 Me gusta aprender tecnologías nuevas y usarlas en proyectos pequeños (aunque no siempre tengan sentido).  
+- 🛠️ Experiencia jugando con **Java, JS, MySQL, Docker y Git**.  
+- 🎮 En mi tiempo libre me encontrarás probando juegos, montando proyectos random o planificando una campaña de D&D demasiado complicada.
+
 ###
 
 <div align="center">
