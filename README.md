@@ -31,5 +31,5 @@
 
 ###
 
-<img src="img/wysper-banner.gif" />
+<img src="img/wysper-banner-final.gif"  />
 
