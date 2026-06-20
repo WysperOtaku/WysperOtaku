@@ -13,7 +13,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=postgres,nodejs,typescript,express,mongodb,react,tailwind" />
     <br>
-    <img src="https://skillicons.dev/icons?i=prisma,supabase,vite" />
+    <img src="https://skillicons.dev/icons?i=prisma,supabase,vite,vitest,cloudflare" />
   </a>
 
   ## Actually Working with
